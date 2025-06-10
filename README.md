@@ -25,7 +25,7 @@ Instant ban if violated — no warnings.
 Keep controversial or divisive topics away from the server. This isn’t the place for those discussions.
 
 
-
+ 
 **#4** — Use a Proper Username
 
 Inappropriate names, impersonation, or offensive statuses are not allowed. Staff may change your name or take further action.
